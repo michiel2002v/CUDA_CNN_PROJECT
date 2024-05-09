@@ -1,0 +1,3 @@
+C:/Users/michi/OneDrive - KU Leuven/Computerarchitectuur/CUDA_CNN_PROJECT/cmake-build-debug/CMakeFiles/CUDA_CNN_PROJECT.dir
+C:/Users/michi/OneDrive - KU Leuven/Computerarchitectuur/CUDA_CNN_PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/michi/OneDrive - KU Leuven/Computerarchitectuur/CUDA_CNN_PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
