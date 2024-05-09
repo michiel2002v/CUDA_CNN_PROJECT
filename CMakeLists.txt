@@ -3,7 +3,7 @@ project(CUDA_CNN_PROJECT CUDA)
 
 set(CMAKE_CUDA_STANDARD 14)
 
-add_executable(CUDA_CNN_PROJECT main.cu)
+add_executable(CUDA_CNN_PROJECT main.cu layer.h layer.cu mnist.h)
 
 set_target_properties(CUDA_CNN_PROJECT PROPERTIES
         CUDA_SEPARABLE_COMPILATION ON)
